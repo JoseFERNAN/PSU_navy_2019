@@ -1,2 +1,3 @@
 # PSU_navy_2019
-Battleship
+Battleship bewteen two terminals using signals
+Made by Jules Minguet and Jose Fernan
